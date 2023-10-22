@@ -1,13 +1,13 @@
 # Ignore image directory and files
-./*/images/
-./*/images/*.png
-./*/images/*.jpg
-./*/images/*.gif
-./*/images/*.jpeg
-./*/images/*.bmp
-./*/images/*.ico
-./*/images/*.svg
-./*/images/*.webp
+*/images/
+*/images/*.png
+*/images/*.jpg
+*/images/*.gif
+*/images/*.jpeg
+*/images/*.bmp
+*/images/*.ico
+*/images/*.svg
+*/images/*.webp
 
 # Ignore local configuration files
-./*/*.ini
+*/*.ini
